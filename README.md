@@ -13,9 +13,13 @@ sudo apt-get install python-opencv python-numpy
 python source.py
 ```
 ### Demo results
-![demo1](https://github.com/sunrongda/Fringe-length/tree/master/assets/1.png)
-![demo2](https://github.com/sunrongda/Fringe-length/tree/master/assets/2.jpeg)
-![demo3](https://github.com/sunrongda/Fringe-length/blob/master/assets/1.png)
-<div align=center><img src="https://github.com/sunrongda/Fringe-length/blob/master/assets/1.png" width="300" height="450" ><div>
+![demo1](https://github.com/sunrongda/Fringe-length/blob/master/assets/1.png)
+
+
+![demo2](https://github.com/sunrongda/Fringe-length/blob/master/assets/2.jpeg)
+
+
+![demo3](https://github.com/sunrongda/Fringe-length/blob/master/assets/3.png)
+
 
 -------------------
