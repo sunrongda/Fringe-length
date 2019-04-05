@@ -14,7 +14,9 @@ python source.py
 ```
 ### Demo results
 
-![picture](https://github.com/sunrongda/Fringe-length/blob/master/4_0.jpg)
+![picture](https://github.com/sunrongda/Fringe-length/blob/master/3_0.jpg)
+
+
 ![demo1](https://github.com/sunrongda/Fringe-length/blob/master/assets/1.png)
 
 
