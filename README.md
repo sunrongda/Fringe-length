@@ -17,5 +17,6 @@ python source.py
 ![demo2](https://github.com/sunrongda/Fringe-length/tree/master/assets/2.jpeg)
 ![demo3](https://github.com/sunrongda/Fringe-length/tree/master/assets/3.png)
 
+![demo3](https://cloud.githubusercontent.com/assets/3307514/19171086/a9346842-8be0-11e6-8011-c17716b22ad3.png)
 
 -------------------
