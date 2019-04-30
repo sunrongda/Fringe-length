@@ -28,5 +28,5 @@ python source.py
 
 -------------------
 thanks today
-nxx
+nx
 
