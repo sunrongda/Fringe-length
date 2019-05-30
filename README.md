@@ -27,5 +27,4 @@ python source.py
 
 
 -------------------
-thanks today
-
+thanks toda
